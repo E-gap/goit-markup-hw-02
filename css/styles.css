@@ -166,9 +166,6 @@
     text-align: center;
     letter-spacing: 0.03em;        
     color: #212121;
-    margin-top: 94px;
-    margin-left: 612px;
-    margin-right: 612px;
     margin-bottom: 50px;
     
     
@@ -207,7 +204,7 @@
         text-align: center;
         letter-spacing: 0.03em;        
         color: #212121;
-        margin: 94px 668px 50px;
+        margin-left: 668px;
         
 }
 .team-list {
