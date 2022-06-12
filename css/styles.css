@@ -323,8 +323,11 @@ footer {
         background-color: #F5F4FA
         height: 26px;
         padding-left: 517px;
-        
 }
+        .filters-li {
+                margin-right: 30px;
+            }
+
 .work-examples-img {
     
     padding-left: 215px;
@@ -333,9 +336,7 @@ footer {
     padding-right: 215px;
     
 }
-.work-examples-i {
-    margin-right: 30px;
-}
+
 .work-examples-h {
     width: 322px;
         height: 36px;
@@ -365,6 +366,10 @@ footer {
 .filters-button, .button-order {
     cursor: pointer;
 }
+.menu-list .menu-link.current {
+    color: #2196F3
+}
+
 
 
 
