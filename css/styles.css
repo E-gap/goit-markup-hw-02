@@ -123,7 +123,7 @@
         color: var(--thirty-color);
         font-weight: var(--bold-font);
         font-size: var(--normal-font-size);
-        line-height: 1.88px;         
+        line-height: 1.88;         
         align-items: center;       
         letter-spacing: 0.06em;
         text-align: center;           
@@ -234,7 +234,7 @@ footer {
     font-family: 'Raleway';
         font-weight: var(--bold-font);
         font-size: 26px;
-        line-height: 1.19px;
+        line-height: 1.19;
         letter-spacing: 0.03em;
         color: var(--thirty-color);
         text-decoration: none;
@@ -320,7 +320,7 @@ footer {
     
         font-weight: var(--medium-font);
         font-size: var(--normal-font-size);
-        line-height: 1.63px;
+        line-height: 1.63;
         text-align: center;
         letter-spacing: 0.03em;
         list-style: none;
@@ -335,7 +335,7 @@ footer {
     margin-right: 30px;    
     font-weight: var(--medium-font);
     font-size: var(--normal-font-size);
-    line-height: 1.62px;
+    line-height: 1.62;
     text-align: center;
     letter-spacing: 0.03em;    
     color: var(--primary-color);
@@ -346,7 +346,7 @@ footer {
     
         font-weight: var(--medium-font);
         font-size: var(--normal-font-size);
-        line-height: 1.62px;         
+        line-height: 1.62;         
         text-align: center;
         letter-spacing: 0.03em;    
         color: var(--primary-color);
@@ -377,7 +377,7 @@ footer {
     
         font-weight: var(--normal-font);
         font-size: var(--normal-font-size);
-        line-height: 1.88px;           
+        line-height: 1.88;           
         letter-spacing: 0.03em;    
         color: var(--secondary-color);
 }
