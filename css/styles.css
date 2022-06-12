@@ -278,10 +278,8 @@ footer {
     margin-top: 9px;
     margin-bottom: 60px;
 }
-.logo:hover,
-.logo:focus,
-.logo-footer:hover,
-.logo-footer:focus,
+
+
 .address-contacts-email:hover,
 .address-contacts-email:focus,
 .address-contacts-phone:hover,
@@ -299,7 +297,7 @@ footer {
 .menu-item-phone:hover,
 .menu-item-phone:focus
  {
-    text-decoration: underline;
+    color: #2196F3;
 }
 
 .menu-item-email:hover,
@@ -383,7 +381,9 @@ footer {
 }
 .filters-button:hover,
 .filters-button:focus {
-    text-decoration: underline;
+    
+    color: var(--thirty-color);
+    background-color: #2196F3
 }
 .filters-button, .button-order {
     cursor: pointer;
